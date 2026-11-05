@@ -1,2 +1,3 @@
 Fares Raouf
 the odin project
+Learn with odin is fun
